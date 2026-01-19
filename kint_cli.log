@@ -1,0 +1,22 @@
+2026-01-15 09:15:56,797 | INFO | Модель загружена из epochs/best_model.pth (strict=True)
+2026-01-15 09:15:57,109 | INFO | Режим модели: eval(), dtype=torch.float16, устройство=mps
+2026-01-15 09:16:10,944 | ERROR | Неожиданная ошибка: 'list' object has no attribute 'detach'
+2026-01-15 09:16:26,296 | INFO | Модель загружена из epochs/best_model.pth (strict=True)
+2026-01-15 09:16:26,699 | INFO | Режим модели: eval(), dtype=torch.float16, устройство=mps
+2026-01-15 09:16:31,778 | ERROR | Неожиданная ошибка: 'list' object has no attribute 'detach'
+2026-01-15 09:18:27,006 | INFO | Модель загружена из epochs/best_model.pth (strict=True)
+2026-01-15 09:18:27,138 | INFO | Режим модели: eval(), dtype=torch.float16, устройство=mps
+2026-01-15 09:18:33,433 | ERROR | Неожиданная ошибка: 'list' object has no attribute 'detach'
+2026-01-15 09:20:34,454 | INFO | Модель загружена из epochs/best_model.pth (strict=True)
+2026-01-15 09:20:34,570 | INFO | Режим модели: eval(), dtype=torch.float16, устройство=mps
+2026-01-15 09:20:41,485 | ERROR | Неожиданная ошибка: 'list' object has no attribute 'detach'
+2026-01-15 09:23:11,352 | INFO | Модель загружена из epochs/best_model.pth (strict=True)
+2026-01-15 09:23:11,586 | INFO | Режим модели: eval(), dtype=torch.float16, устройство=mps
+2026-01-15 09:23:16,772 | ERROR | Неожиданная ошибка: 'list' object has no attribute 'detach'
+2026-01-15 09:25:56,145 | INFO | Модель загружена из epochs/best_model.pth (strict=True)
+2026-01-15 09:25:56,286 | INFO | Режим модели: eval(), dtype=torch.float16, устройство=mps
+2026-01-15 09:25:59,983 | ERROR | Неожиданная ошибка: 'list' object has no attribute 'detach'
+2026-01-15 11:49:03,800 | INFO | Модель загружена из epochs/best_model.pth (strict=True)
+2026-01-15 11:49:04,079 | INFO | Режим модели: eval(), dtype=torch.float16, устройство=mps
+2026-01-15 11:50:57,402 | INFO | Модель загружена из epochs/best_model.pth (strict=True)
+2026-01-15 11:50:57,405 | INFO | Режим модели: eval(), dtype=torch.float32, устройство=mps

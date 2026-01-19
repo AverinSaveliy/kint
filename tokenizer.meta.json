@@ -1,0 +1,8 @@
+{
+  "vocab_size": 32000,
+  "character_coverage": 0.9995,
+  "model_type": "bpe",
+  "date": "1768383859.4191618",
+  "input_file": "data/corpus.txt",
+  "model_prefix": "tokenizer"
+}
